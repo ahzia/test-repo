@@ -1,3 +1,9 @@
 p {
     color: red;
 }
+
+* {
+    font-size: 20px;
+    color: blueviolet;
+    background-color: rgb(235, 155, 69);
+}
